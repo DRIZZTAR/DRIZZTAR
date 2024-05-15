@@ -19,16 +19,17 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 ### 🔭 Current Projects
 - **TaiL**: An educational/adventure AI web application.
-- **Personal Site**: A personal portfolio with AI interactions.
+- **Personal Site**: A personal portfolio with AI to answer questions about me.
 - **PhotoLabs**: A SPA for photo sharing and viewing.
 
-### 🌱 I'm Learning
+### 🌱 Currently Learning...
 - **Three.js** to enhance UI with 3D web graphics.
 
 ### 💬 Let's Connect
 Interested in collaborating or want to discuss tech? **[Send me an email](mailto:tysonskakun@gmail.com)** or visit my **[website](https://tysonskakun.dev)**!
 
 <div align="center">
+  <img src="[https://example.com/path-to-image.jpg](https://preview.redd.it/i-love-space-i-love-calvin-hobbes-so-i-made-these-two-edits-v0-8aqqt0q053491.jpg?width=640&crop=smart&auto=webp&s=c731fd1dcbb2e09109e848a36bbc769752695fb6)" alt="Sample Image">
 
 </div>
 

@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://tysonskakun.dev">Website</a> •
+  <a href="https://tail-adventures.com">TaiL</a> •
   <a href="mailto:tysonskakun@gmail.com">Email</a>
 </p>
 

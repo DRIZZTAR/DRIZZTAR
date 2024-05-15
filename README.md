@@ -1,41 +1,35 @@
-# Hello, I'm Tyson Skakun! 👋
+<h1 align="center">👋 Hi, I'm Tyson Skakun</h1>
 
-I'm a Full Stack Developer from Edmonton, Canada, deeply passionate about front-end technologies and crafting dynamic, user-centric web applications. My journey in tech is driven by a commitment to lifelong learning and continuous improvement.
+<p align="center">
+  <a href="https://tysonskakun.dev">Website</a> •
+  <a href="mailto:tysonskakun@gmail.com">Email</a>
+</p>
 
-## 🌐 Connect with me:
+<div align="center">
+  <img url="https://media.licdn.com/dms/image/D5635AQGnixOwQllV0w/profile-framedphoto-shrink_200_200/0/1715199212690?e=1716346800&v=beta&t=8Y-rCxzsGgWClymNkiPstuZHRZ1YimKp6Wy3Ygnnpwg" width="150px" style="border-radius:50%" alt="Avatar image of Tyson Skakun"/>
+</div>
 
-- Personal Website: [tysonskakun.dev](https://tysonskakun.dev)
-- Email: [tysonskakun@gmail.com](mailto:tysonskakun@gmail.com)
+---
 
-## 🎓 Education
+### 👨‍💻 About Me
+I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies and AI integration.
 
-- **Diploma in Full-Stack Web Development**, Lighthouse Labs (08/2023 – 03/2024)
-- **Bilingual Diploma**, Ecole Secondaire Beaumont
+### 🛠 Tech Stack
+`JavaScript` `HTML` `CSS` `Next.js` `React` `Tailwind CSS` `Node.js` `Express` `Prisma` `SQL` `PostgreSQL` `OpenAI API` `Vercel AI SDK` `Pusher.io`
 
-## 🛠 Tech Stack
+### 🔭 Current Projects
+- **TaiL**: An educational/adventure AI web application.
+- **Personal Site**: A personal portfolio with AI interactions.
+- **PhotoLabs**: A SPA for photo sharing and viewing.
 
-- **Frontend:** JavaScript, HTML, CSS, Next.js, React, Redux, Tailwind CSS
-- **Backend:** Node.js, Express, Prisma, Sanity (CMS)
-- **Database:** SQL, PostgreSQL
-- **AI & Integration:** OpenAI API, Vercel AI SDK 3.0, Pusher.io
-- **Tools & Others:** Git, Stripe (Payments), Clerk (User Authentication)
+### 🌱 I'm Learning
+- **Three.js** to enhance UI with 3D web graphics.
 
-## 🚀 Current Projects
+### 💬 Let's Connect
+Interested in collaborating or want to discuss tech? **[Send me an email](mailto:tysonskakun@gmail.com)** or visit my **[website](https://tysonskakun.dev)**!
 
-### TaiL
-A fully deployed educational and adventure AI web application that uses AI to stream generated React components. It provides dynamic and personalized story experiences through user choices and AI-driven narratives.
+<div align="center">
+  <img url="https://media.licdn.com/dms/image/D560BAQEeBbvhA73okg/company-logo_100_100/0/1715184040020/tail_adventures_logo?e=1723680000&v=beta&t=lkOhzznVK_MKmhPSwPuYTVVmVTKdnhbBV8NpoKNOEa4" alt="Creative footer image"/>
+</div>
 
-### Personal Site
-A fully deployed personal site featuring AI to answer questions about myself, built with Next.js, React, and Tailwind CSS.
-
-### PhotoLabs
-A single-page application (SPA) for viewing and sharing photos, built with React, PostgreSQL, Node.js, and Express.
-
-## 📚 I’m currently learning
-
-I am actively enhancing my skills in modern web technologies, focusing on Three.js to bring immersive 3D effects to web interfaces.
-
-## 👀 Looking Forward
-
-I'm always on the lookout for new technologies and methodologies that can improve the user experience and streamline development processes. Feel free to reach out if you have any exciting projects, ideas, or just want to chat about technology!
 

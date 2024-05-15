@@ -29,7 +29,7 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 Interested in collaborating or want to discuss tech? **[Send me an email](mailto:tysonskakun@gmail.com)** or visit my **[website](https://tysonskakun.dev)**!
 
 <div align="center">
-  <img url="https://media.licdn.com/dms/image/D560BAQEeBbvhA73okg/company-logo_100_100/0/1715184040020/tail_adventures_logo?e=1723680000&v=beta&t=lkOhzznVK_MKmhPSwPuYTVVmVTKdnhbBV8NpoKNOEa4" alt="Creative footer image"/>
+
 </div>
 
 

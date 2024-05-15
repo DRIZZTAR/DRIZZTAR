@@ -6,11 +6,6 @@ I'm a Full Stack Developer from Edmonton, Canada, deeply passionate about front-
 
 - Personal Website: [tysonskakun.dev](https://tysonskakun.dev)
 - Email: [tysonskakun@gmail.com](mailto:tysonskakun@gmail.com)
-- Phone: [+1 780-940-0375](tel:+17809400375)
-
-## 💼 Professional Background
-
-I bring my extensive experience from working as a Manager at Indigo Books & Music, where I led tech training programs and facilitated crucial feedback loops between developers, staff, and customers. My role involved driving the adoption of innovative tech solutions and maintaining a growth mindset among my team.
 
 ## 🎓 Education
 

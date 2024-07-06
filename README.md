@@ -16,7 +16,7 @@
 I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies, AI integration, and web 3D. Currently Three.Js obsessed.
 
 ### 🛠 Tech Stack
-`JavaScript` `HTML` `CSS` `Next.js` `React` `Tailwind CSS` `Node.js` `Express` `Prisma` `SQL` `PostgreSQL` `OpenAI API` `Vercel AI SDK` `Pusher.io`
+`JavaScript` `HTML` `CSS` `Next.js` `React` `Three.Js` `React-Three-Fiber` `Tailwind CSS` `Node.js` `Express` `Prisma` `SQL` `PostgreSQL` `OpenAI API` `Vercel AI SDK` `Pusher.io`
 
 ### 🔭 Current Projects
 - **TaiL**: An educational/adventure AI web application.

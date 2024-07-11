@@ -24,6 +24,9 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 - **PhotoLabs**: A SPA for photo sharing and viewing.
 
 ### 🌱 Currently Learning...
+- **React-Three-Fiber** to further integrate 3D, and develop web/xr apps.
+
+### 🌳 Recently Learned...
 - **Three.js** to enhance UI with 3D web graphics.
 
 ### 💬 Let's Connect

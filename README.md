@@ -20,8 +20,9 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 ### 🔭 Current Projects
 - **TaiL**: An educational/adventure AI web application.
-- **Personal Site**: A personal portfolio with AI to answer questions about me, and a plac e for people to view m current work.
-- **PhotoLabs**: A SPA for photo sharing and viewing.
+- **Personal Site**: A personal portfolio with AI to answer questions about me, and a place for people to view m current work.
+- **3D Personal Site Demo**:  A new 3D portfolio site showcasing my work, accessible here **[website](https://tyson-skakun-3d-portfolio.vercel.app/)**.
+- **MacBook Configurator**: Building out a MacBook configurator using Three.js and React Three Fiber, integrating lighting, shadows, and interactive features.
 
 ### 🌱 Currently Learning...
 - **React-Three-Fiber** to further integrate 3D, and develop web/xr apps.

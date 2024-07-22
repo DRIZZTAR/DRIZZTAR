@@ -19,9 +19,9 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 `JavaScript` `HTML` `CSS` `Next.js` `React` `Three.Js` `React-Three-Fiber` `Web GL/Web GPU` `Tailwind CSS` `Node.js` `Express` `Prisma` `SQL` `PostgreSQL` `OpenAI API` `Vercel AI SDK`
 
 ### 🔭 Current Projects
-- **TaiL**: An educational/adventure AI web application.
-- **Personal Site**: My personal portfolio with AI to answer questions about me, and a place for people to view my current work. **[Check It Out](https://tysonskakun.dev)**!
-- **3D Personal Site Demo**:  A new 3D portfolio site showcasing my work, accessible **[here](https://tyson-skakun-3d-portfolio.vercel.app/)**.
+- **TaiL**: An educational/adventure AI web application. **[Tail-Adventures.com](https://tysonskakun.dev)**
+- **Personal Site**: My personal portfolio with AI to answer questions about me, and a place for people to view my current work. **[TysonSkakun.dev](https://tysonskakun.dev)**!
+- **3D Personal Site Demo**:  A new 3D portfolio site showcasing my work, view **[here](https://tyson-skakun-3d-portfolio.vercel.app/)**.
 - **MacBook Configurator**: Building out a MacBook configurator using Three.js and React Three Fiber, integrating lighting, shadows, and interactive features.
 
 ### 🌱 Currently Learning...
@@ -29,6 +29,8 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 ### 🌳 Recently Learned...
 - **Three.js** to enhance UI with 3D web graphics.
+- **Web GPU** for rendering and computing particle systems, and shaders.
+- **GLSL** for creating and using custom shaders.
 
 ### 💬 Let's Connect
 Interested in collaborating or want to discuss tech? **[Send me an email](mailto:tysonskakun@gmail.com)** or visit my **[website](https://tysonskakun.dev)**!

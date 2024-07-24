@@ -39,17 +39,16 @@ Interested in collaborating or want to discuss tech? **[Send me an email](mailto
 <div align="center">
   <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=580&height=200" alt="Sample Image">
           <p style="
-            color: #1d1d1f;
+            color: '#1d1d1f';
             font-size: 21px;
             line-height: 1.5;
             text-align: center;
-            margin-top: 10px;
             margin: 0;
         ">
             "Stay hungry. Stay foolish."
         </p>
         <p style="
-            color: #86868b;
+            color: '#86868b';
             font-size: 14px;
             text-align: center;
             margin: 10px 0 0;

@@ -43,6 +43,7 @@ Interested in collaborating or want to discuss tech? **[Send me an email](mailto
             font-size: 21px;
             line-height: 1.5;
             text-align: center;
+            margin-top: 10px;
             margin: 0;
         ">
             "Stay hungry. Stay foolish."

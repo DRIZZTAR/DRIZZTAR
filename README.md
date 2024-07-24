@@ -35,9 +35,46 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 ### 💬 Let's Connect
 Interested in collaborating or want to discuss tech? **[Send me an email](mailto:tysonskakun@gmail.com)** or visit my **[website](https://tysonskakun.dev)**!
 
-<div align="center">
-  <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=580&height=200" alt="Sample Image">
-
+<div style="
+    max-width: 600px;
+    margin: 20px auto;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+    background-color: #f5f5f7;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+">
+    <img 
+        src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=580&height=200" 
+        alt="Calvin as Spaceman Spiff" 
+        style="
+            width: 100%;
+            height: auto;
+            display: block;
+        "
+    >
+    <div style="
+        padding: 20px;
+        background-color: #fff;
+    ">
+        <p style="
+            color: #1d1d1f;
+            font-size: 21px;
+            line-height: 1.5;
+            text-align: center;
+            margin: 0;
+        ">
+            "Stay hungry. Stay foolish."
+        </p>
+        <p style="
+            color: #86868b;
+            font-size: 14px;
+            text-align: center;
+            margin: 10px 0 0;
+        ">
+            — Steve Jobs
+        </p>
+    </div>
 </div>
 
 

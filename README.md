@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D5616AQGUp5NxMdI8Ug/profile-displaybackgroundimage-shrink_100_400/0/1718496161636?e=2147483647&v=beta&t=UBMCYrmkvOJf3LGZhlmPQA_pV7KYGqXCX_gHdL6V-Aw" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" width="800">
+</div>
 <h1 align="center">👋 Hi, I'm Tyson Skakun</h1>
 <p align="center">
   <a href="https://tysonskakun.dev">Website</a> •
@@ -5,9 +8,6 @@
   <a href="mailto:tysonskakun@gmail.com">Email</a>
 </p>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGUp5NxMdI8Ug/profile-displaybackgroundimage-shrink_200_800/0/1718496161636?e=2147483647&v=beta&t=UBMCYrmkvOJf3LGZhlmPQA_pV7KYGqXCX_gHdL6V-Aw" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" width="800">
-</div>
 
 ---
 

@@ -57,7 +57,7 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 Interested in collaborating or want to discuss tech? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!
 
 <div align="center">
-  <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=800&height=200" alt="Sample Image">
+  <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=800&height=300" alt="Sample Image">
   <p style="color: '#1d1d1f'; font-size: 21px; line-height: 1.5; text-align: center; margin: 0;">
     "Stay hungry. Stay foolish."
   </p>

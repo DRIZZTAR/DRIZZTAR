@@ -5,6 +5,10 @@
   <a href="mailto:tysonskakun@gmail.com">Email</a>
 </p>
 
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D5616AQGUp5NxMdI8Ug/profile-displaybackgroundimage-shrink_200_800/0/1718496161636?e=2147483647&v=beta&t=UBMCYrmkvOJf3LGZhlmPQA_pV7KYGqXCX_gHdL6V-Aw" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" width="800">
+</div>
+
 ---
 
 ### 👨‍💻 About Me

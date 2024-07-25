@@ -9,6 +9,16 @@
 </p>
 
 
+<div align="center">
+  <p style="color: '#1d1d1f'; font-size: 21px; line-height: 1.5; text-align: center; margin: 0;">
+    "Stay hungry. Stay foolish."
+  </p>
+  <p style="color: '#86868b'; font-size: 14px; text-align: center; margin: 10px 0 0;">
+    — Steve Jobs
+  </p>
+</div>
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -55,12 +65,3 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 ### 💬 Let's Connect
 
 Interested in collaborating or want to discuss tech? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!
-
-<div align="center">
-  <p style="color: '#1d1d1f'; font-size: 21px; line-height: 1.5; text-align: center; margin: 0;">
-    "Stay hungry. Stay foolish."
-  </p>
-  <p style="color: '#86868b'; font-size: 14px; text-align: center; margin: 10px 0 0;">
-    — Steve Jobs
-  </p>
-</div>

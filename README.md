@@ -56,12 +56,14 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 Interested in collaborating or want to discuss tech? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!
 
-<div align="center">
-  <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=800&height=300" alt="Sample Image">
-  <p style="color: '#1d1d1f'; font-size: 21px; line-height: 1.5; text-align: center; margin: 0;">
-    "Stay hungry. Stay foolish."
-  </p>
-  <p style="color: '#86868b'; font-size: 14px; text-align: center; margin: 10px 0 0;">
-    — Steve Jobs
-  </p>
+<div style="display: flex; align-items: center; text-align: left;">
+  <img src="https://devnet.kentico.com/getattachment/Articles/2016-06/What-Calvin-Hobbes-Can-Teach-Us-about-Web-Developm/SpacemanSpiff.jpg?width=800&height=300" alt="Sample Image" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
+  <div>
+    <p style="color: #1d1d1f; font-size: 21px; line-height: 1.5; margin: 0;">
+      "Stay hungry. Stay foolish."
+    </p>
+    <p style="color: #86868b; font-size: 14px; margin: 10px 0 0;">
+      — Steve Jobs
+    </p>
+  </div>
 </div>

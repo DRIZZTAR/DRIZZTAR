@@ -1,14 +1,15 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/9f/b1/8b/9fb18b905355826382ed6a9dbac5ee7d.jpg" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" height="350" width="600">
 </div>
-<h1 align="center">👋 Hi, I'm Tyson Skakun <div align="center">
+<div align="center">
+  <h1>👋 Hi, I'm Tyson Skakun</h1>
   <p style="color: '#1d1d1f'; font-size: 21px; line-height: 1.5; text-align: center; margin: 0;">
     "Stay hungry. Stay foolish."
   </p>
   <p style="color: '#86868b'; font-size: 14px; text-align: center; margin: 10px 0 0;">
     — Steve Jobs
   </p>
-</div></h1>
+</div>
 <p align="center">
   <a href="https://tysonskakun.dev">Website</a> •
   <a href="https://tail-adventures.com">TaiL</a> •

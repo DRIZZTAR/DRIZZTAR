@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9f/b1/8b/9fb18b905355826382ed6a9dbac5ee7d.jpg" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" height="500" width="800">
+  <img src="https://i.pinimg.com/originals/9f/b1/8b/9fb18b905355826382ed6a9dbac5ee7d.jpg" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" height="250" width="400">
 </div>
 <h1 align="center">👋 Hi, I'm Tyson Skakun</h1>
 <p align="center">

@@ -24,7 +24,7 @@
 
 I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies, AI integration, and web 3D. Currently Three.Js obsessed.
 
-### 🛠 Tech Stack
+### 🛠 Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

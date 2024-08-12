@@ -44,10 +44,10 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🔭 Current Projects
+### 🔭 Highlight Projects
 
 - **3D Book Viewer**: web application that allows users to interact with a digital book in a three-dimensional space. Built using Three.js and React Three Fiber, this project aims to provide a realistic and engaging reading experience. [Current Demo](https://link-to-the-past.vercel.app/)
-- **TaiL**: An educational/adventure AI web application. [Tail-Adventures.com](https://tysonskakun.dev)
+- **TaiL**: An educational/adventure AI Full-Stack Next.Js web application. [Tail-Adventures.com](https://tysonskakun.dev)
 - **Personal Site**: My personal portfolio with AI to answer questions about me, and a place for people to view my current work. [TysonSkakun.dev](https://tysonskakun.dev)!
 - **3D Personal Site Demo**: A new 3D portfolio site showcasing my work, view [here](https://tyson-skakun-3d-portfolio.vercel.app/).
 - **MacBook Configurator**: Building out a MacBook configurator using Three.js and React Three Fiber, integrating lighting, shadows, and interactive features.

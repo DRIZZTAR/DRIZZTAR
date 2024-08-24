@@ -50,7 +50,6 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 - **TaiL**: An educational/adventure AI Full-Stack Next.Js web application. [Tail-Adventures.com](https://tysonskakun.dev)
 - **Personal Site**: My personal portfolio with AI to answer questions about me, and a place for people to view my current work. [TysonSkakun.dev](https://tysonskakun.dev)!
 - **3D Personal Site Demo**: A new 3D portfolio site showcasing my work, view [here](https://tyson-skakun-3d-portfolio.vercel.app/).
-- **MacBook Configurator**: Building out a MacBook configurator using Three.js and React Three Fiber, integrating lighting, shadows, and interactive features.
 
 ### 🌱 Currently Learning...
 

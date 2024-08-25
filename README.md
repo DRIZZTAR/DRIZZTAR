@@ -63,4 +63,4 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 ### 💬 Let's Connect
 
-Interested in collaborating or want to discuss tech? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!
+Interested in collaborating or in need of a creative developer? [Send me an email](mailto:tysonskakun@gmail.com) or visit my [website](https://tysonskakun.dev)!

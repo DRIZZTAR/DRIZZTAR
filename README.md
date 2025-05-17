@@ -14,7 +14,6 @@
   <a href="https://tysonskakun.dev">Website</a> •
   <a href="https://link-to-the-past.vercel.app/">Three.js 3D Book</a> •
   <a href="https://fraimed.vercel.app/">R3F T-Shirt Customizer</a> •
-  <a href="https://tail-adventures.com">TaiL</a> •
   <a href="mailto:tysonskakun@gmail.com">Email</a>
 </p>
 

@@ -48,7 +48,7 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 ### 🔭 Highlight Projects
 
 - **3D Book Viewer**: web application that allows users to interact with a digital book in a three-dimensional space. Built using Three.js and React Three Fiber, this project aims to provide a realistic and engaging reading experience. [Current Demo](https://link-to-the-past.vercel.app/)
-- **TaiL**: An educational/adventure AI Full-Stack Next.Js web application. [Tail-Adventures.com](https://tail-adventures.com)
+- **TaiL**: An educational/adventure AI Full-Stack Next.Js web application. [playtail.app]((https://tail-waitlist.vercel.app/))
 - **Personal Site**: My personal portfolio with AI to answer questions about me, and a place for people to view my current work. [TysonSkakun.dev](https://tysonskakun.dev)!
 - **Building In Public on X**: A collection of my ongoing Three.js and React Three Fiber projects. [X](https://x.com/TysonJeremy).
 

@@ -54,10 +54,11 @@ I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating 
 
 ### 🌱 Currently Learning...
 
-- **Gsap** to further expand upon my knowledge of the library for motion design.
+- **Flutter** to build cross platform apps.
 
 ### 🌳 Recently Learned...
 
+- **Gsap** to further expand upon my knowledge of the library for motion design.
 - **React-Three-Fiber** to further integrate 3D, and develop web/xr apps.
 - **Three.js** to enhance UI with 3D web graphics.
 - **Web GPU** for rendering and computing particle systems, and shaders.

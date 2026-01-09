@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9f/b1/8b/9fb18b905355826382ed6a9dbac5ee7d.jpg" alt="Tyson Skakun - Full Stack Developer | 3D Enthusiast" height="350" width="600">
+  <img src="https://i.pinimg.com/originals/9f/b1/8b/9fb18b905355826382ed6a9dbac5ee7d.jpg" alt="Tyson Skakun - Design Engineer" height="350" width="600">
 </div>
 <div align="center">
   <h1>👋 Hello, I'm Tyson Skakun</h1>
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies, AI integration, and 3D integration into web applications. Currently Three.Js obsessed.
+I'm a **Developer** from Edmonton, Canada, passionate about creating dynamic web applications with a focus on frontend technologies. Currently Three.Js obsessed.
 
 ### 🛠 Tools
 
